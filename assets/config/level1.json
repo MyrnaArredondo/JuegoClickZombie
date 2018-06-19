@@ -1,0 +1,18 @@
+{
+    "timeLeft":30,
+    "minTime":300,
+    "deltaTime":1000,
+    "zombies":[
+         {"sprite":"zombieBoy", "x0":60, "y0":483, "x1":60, "y1":440, "scale":0.5, "angle":0, "timeAnimation":1500, "timeDelay":1500},
+         {"sprite":"zombieBoy", "x0":150, "y0":100, "x1":150, "y1":100, "scale":0.7, "angle":180, "timeAnimation":1500, "timeDelay":1500},
+         {"sprite":"zombieBoy", "x0":439, "y0":344, "x1":439, "y1":330, "scale":1, "angle":45, "timeAnimation":1500, "timeDelay":1500},
+         {"sprite":"zombieBoy", "x0":745, "y0":465, "x1":805, "y1":490, "scale":1, "angle":260, "timeAnimation":1500, "timeDelay":1500},
+         {"sprite":"zombieBoy", "x0":745, "y0":465, "x1":805, "y1":490, "scale":0.9, "angle":45, "timeAnimation":1500, "timeDelay":1500},
+         {"sprite":"zombieBoy", "x0":415, "y0":344, "x1":460, "y1":460, "scale":0.8, "angle":135, "timeAnimation":1500, "timeDelay":1500},
+         {"sprite":"zombieBoy", "x0":213, "y0":242, "x1":181, "y1":311, "scale":1, "angle":200, "timeAnimation":1500, "timeDelay":1500},
+         {"sprite":"zombieBoy", "x0":450, "y0":350, "x1":450, "y1":380, "scale":1, "angle":260, "timeAnimation":1500, "timeDelay":1500},
+         {"sprite":"zombieBoy", "x0":50, "y0":489, "x1":79, "y1":489, "scale":0.5, "angle":265, "timeAnimation":1500, "timeDelay":1500},
+         {"sprite":"zombieBoy", "x0":70, "y0":489, "x1":90, "y1":489, "scale":0.5, "angle":100, "timeAnimation":1500, "timeDelay":1500},
+         {"sprite":"zombieBoy", "x0":200, "y0":300, "x1":205, "y1":297, "scale":1, "angle":31, "timeAnimation":1500, "timeDelay":1500}
+           ]
+        }
